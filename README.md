@@ -8,3 +8,4 @@ Services:
 - Math function execution: Lambda function
 - Lambda trigger: API Gateway
 - AWS Service communication/pemissions: IAM
+- Using Github with Amplify as CI/CD
